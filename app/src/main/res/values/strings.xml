@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AcevedoElias</string>
+    <string name="tempMinina">Temp Mínima</string>
+    <string name="tempMaxima">Temp Máxima</string>
+    <string name="dia">Día</string>
+    <string name="noche">Noche</string>
+    <string name="pronosticoExtendido" >Ver pronostico extendido a 5 días</string>
+    <string name="pronostico">Pronóstico extendido</string>
+    <string name="pronosticodia">Pronóstico del día</string>
+    <string name="unidad">C°</string>
+    <string name="info">info</string>
+    <string name="day">Pronóstico Día</string>
+    <string name="night">Próstico Noche</string>
+    <string name="fecha">Fecha</string>
+</resources>
